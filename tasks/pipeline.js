@@ -10,13 +10,13 @@ var jsFilesToInject = [
   '../../bower_components/lodash/lodash.js',
   '../../bower_components/angular/angular.js',
   '../../bower_components/angular-animate/angular-animate.js',
-  '../../bower_components/ui-router/release/angular-ui-router.js',
+  '../../bower_components/angular-ui-router/release/angular-ui-router.js',
   '../../bower_components/oclazyload/dist/ocLazyLoad.js',
   '../../bower_components/angular-sanitize/angular-sanitize.js',
   '../../bower_components/angular-touch/angular-touch.js',
   '../../bower_components/a0-angular-storage/dist/angular-storage.js',
+  '../../bower_components/sails.io.js/dist/sails.io.js',
   'dependencies/ui-bootstrap.js',
-  'dependencies/sails.io.js',
   'scripts/app.js',
   'scripts/controllers/AppController.js'
 ];
