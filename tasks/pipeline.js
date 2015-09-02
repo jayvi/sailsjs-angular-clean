@@ -15,8 +15,8 @@ var jsFilesToInject = [
   '../../bower_components/angular-sanitize/angular-sanitize.js',
   '../../bower_components/angular-touch/angular-touch.js',
   '../../bower_components/a0-angular-storage/dist/angular-storage.js',
-  '../../bower_components/sails.io.js/dist/sails.io.js',
   'dependencies/ui-bootstrap.js',
+  'dependencies/sails.io.js',
   'scripts/app.js',
   'scripts/controllers/AppController.js'
 ];
